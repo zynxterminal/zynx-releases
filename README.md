@@ -4,16 +4,16 @@
 
 **The terminal workspace built for how you actually ship.**
 
-[![Latest Release](https://img.shields.io/github/v/release/hrdevop/zynx-releases?color=6366f1&label=Release&logo=github&style=flat-square)](https://github.com/hrdevop/zynx-releases/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/zynxterminal/zynx-releases?color=6366f1&label=Release&logo=github&style=flat-square)](https://github.com/zynxterminal/zynx-releases/releases/latest)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_free-0078D7?style=flat-square&logo=microsoft)](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue?style=flat-square&logo=windows)](https://github.com/hrdevop/zynx-releases/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue?style=flat-square&logo=windows)](https://github.com/zynxterminal/zynx-releases/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](./LICENSE)
 [![Website](https://img.shields.io/badge/Website-usezynx.com-orange?style=flat-square)](https://usezynx.com)
-[![Issues](https://img.shields.io/badge/Issue%20Tracker-GitHub%20Issues-purple?style=flat-square&logo=github)](https://github.com/hrdevop/ZynxTerminal-issues)
+[![Issues](https://img.shields.io/badge/Issue%20Tracker-GitHub%20Issues-purple?style=flat-square&logo=github)](https://github.com/zynxterminal/zynx-releases/issues)
 
 <br />
 
-[**Official Website**](https://usezynx.com) • [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) • [**Downloads**](#-downloads-v102) • [**Release Notes**](https://github.com/hrdevop/zynx-releases/releases) • [**Report an Issue**](https://github.com/hrdevop/ZynxTerminal-issues/issues/new/choose)
+[**Official Website**](https://usezynx.com) • [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) • [**Downloads**](#-downloads-v102) • [**Release Notes**](https://github.com/zynxterminal/zynx-releases/releases) • [**Report an Issue**](https://github.com/zynxterminal/zynx-releases/issues/new/choose)
 
 </div>
 
@@ -24,9 +24,9 @@
 | Asset | Package Type | Architecture | Size | Checksum (SHA-256) | Download |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Microsoft Store** | Official Windows Store App | `Windows x64` | Store Cloud | Verified by Microsoft | [🛍️ **Get from Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) |
-| **`ZynxTerminal_1.0.2_x64-setup.exe`** | NSIS Setup (Recommended) | `Windows x64` | `9.32 MB` | `3850c068284f7ead4668814795ae5f330b71e08afef2f221a00cb80a35ba31c4` | [⬇️ **Download .exe**](https://github.com/hrdevop/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe) |
-| **`ZynxTerminal_1.0.2_x64_en-US.msi`** | MSI Enterprise Installer | `Windows x64` | `11.68 MB` | `d82def44ef029a8cf8409110ba31ecd80e139f669a5ac2af3a939bf52f2fb0b1` | [⬇️ **Download .msi**](https://github.com/hrdevop/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64_en-US.msi) |
-| **`ZynxTerminal_1.0.2.0_x64.msix`** | MSIX App Package | `Windows x64` | `9.77 MB` | `a7577c7b56f5f4fb8d6c1052668884bebab627f7f488f21e4fb9f405017f667e` | [⬇️ **Download .msix**](https://github.com/hrdevop/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2.0_x64.msix) |
+| **`ZynxTerminal_1.0.2_x64-setup.exe`** | NSIS Setup (Recommended) | `Windows x64` | `9.32 MB` | `3850c068284f7ead4668814795ae5f330b71e08afef2f221a00cb80a35ba31c4` | [⬇️ **Download .exe**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe) |
+| **`ZynxTerminal_1.0.2_x64_en-US.msi`** | MSI Enterprise Installer | `Windows x64` | `11.68 MB` | `d82def44ef029a8cf8409110ba31ecd80e139f669a5ac2af3a939bf52f2fb0b1` | [⬇️ **Download .msi**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64_en-US.msi) |
+| **`ZynxTerminal_1.0.2.0_x64.msix`** | MSIX App Package | `Windows x64` | `9.77 MB` | `a7577c7b56f5f4fb8d6c1052668884bebab627f7f488f21e4fb9f405017f667e` | [⬇️ **Download .msix**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2.0_x64.msix) |
 
 ---
 
@@ -36,14 +36,14 @@
 Install directly from the [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) for automated OS background updates.
 
 ### Method 2: Graphical Setup (.exe)
-1. Download [**`ZynxTerminal_1.0.2_x64-setup.exe`**](https://github.com/hrdevop/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe).
+1. Download [**`ZynxTerminal_1.0.2_x64-setup.exe`**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe).
 2. Run the installer and follow the quick setup wizard.
 3. Launch **ZynxTerminal** from your Start Menu or Desktop.
 
 ### Method 3: PowerShell One-Liner
 Open PowerShell and run:
 ```powershell
-Invoke-WebRequest -Uri "https://github.com/hrdevop/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe" -OutFile "$env:TEMP\ZynxTerminal-setup.exe"; Start-Process "$env:TEMP\ZynxTerminal-setup.exe"
+Invoke-WebRequest -Uri "https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe" -OutFile "$env:TEMP\ZynxTerminal-setup.exe"; Start-Process "$env:TEMP\ZynxTerminal-setup.exe"
 ```
 
 ---
@@ -86,7 +86,7 @@ Get-FileHash -Algorithm SHA256 "path\to\ZynxTerminal_1.0.0_x64_en-US.msi"
 
 ## 🤝 Community & Support
 
-- **Bug Reports & Feature Requests**: [ZynxTerminal Issue Tracker](https://github.com/hrdevop/ZynxTerminal-issues)
+- **Bug Reports & Feature Requests**: [ZynxTerminal Issue Tracker](https://github.com/zynxterminal/zynx-releases/issues)
 - **Security Vulnerabilities**: See [SECURITY.md](./SECURITY.md) or email `security@usezynx.com`
 - **Documentation & Website**: [https://usezynx.com](https://usezynx.com)
 
