@@ -13,20 +13,19 @@
 
 <br />
 
-[**Official Website**](https://usezynx.com) • [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) • [**Downloads**](#-downloads-v102) • [**Release Notes**](https://github.com/zynxterminal/zynx-releases/releases) • [**Report an Issue**](https://github.com/zynxterminal/zynx-releases/issues/new/choose)
+[**Official Website**](https://usezynx.com) • [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) • [**Downloads**](#-downloads-v105) • [**Release Notes**](https://github.com/zynxterminal/zynx-releases/releases) • [**Report an Issue**](https://github.com/zynxterminal/zynx-releases/issues/new/choose)
 
 </div>
 
 ---
 
-## 📦 Downloads (v1.0.2)
+## 📦 Downloads (v1.0.5)
 
 | Asset | Package Type | Architecture | Size | Checksum (SHA-256) | Download |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Microsoft Store** | Official Windows Store App | `Windows x64` | Store Cloud | Verified by Microsoft | [🛍️ **Get from Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) |
-| **`ZynxTerminal_1.0.2_x64-setup.exe`** | NSIS Setup (Recommended) | `Windows x64` | `9.32 MB` | `3850c068284f7ead4668814795ae5f330b71e08afef2f221a00cb80a35ba31c4` | [⬇️ **Download .exe**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe) |
-| **`ZynxTerminal_1.0.2_x64_en-US.msi`** | MSI Enterprise Installer | `Windows x64` | `11.68 MB` | `d82def44ef029a8cf8409110ba31ecd80e139f669a5ac2af3a939bf52f2fb0b1` | [⬇️ **Download .msi**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64_en-US.msi) |
-| **`ZynxTerminal_1.0.2.0_x64.msix`** | MSIX App Package | `Windows x64` | `9.77 MB` | `a7577c7b56f5f4fb8d6c1052668884bebab627f7f488f21e4fb9f405017f667e` | [⬇️ **Download .msix**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2.0_x64.msix) |
+| **`ZynxTerminal_1.0.5_x64-setup.exe`** | NSIS Setup (Recommended) | `Windows x64` | `10.19 MB` | `bad429732e1786520b6e45b4b4b3edad17f30ee7342d746d06f3c1a14ec9fa7d` | [⬇️ **Download .exe**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.5/ZynxTerminal_1.0.5_x64-setup.exe) |
+| **`ZynxTerminal_1.0.5_x64_en-US.msi`** | MSI Enterprise Installer | `Windows x64` | `12.65 MB` | `cbbf474c48000c4a7b0ec26edd049ccbad9b96164c3847e5435643e8ac5e1ea9` | [⬇️ **Download .msi**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.5/ZynxTerminal_1.0.5_x64_en-US.msi) |
 
 ---
 
@@ -36,14 +35,14 @@
 Install directly from the [**Microsoft Store**](https://apps.microsoft.com/detail/9PKFLR5JVDRB?hl=en-us&gl=IN&ocid=pdpshare) for automated OS background updates.
 
 ### Method 2: Graphical Setup (.exe)
-1. Download [**`ZynxTerminal_1.0.2_x64-setup.exe`**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe).
+1. Download [**`ZynxTerminal_1.0.5_x64-setup.exe`**](https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.5/ZynxTerminal_1.0.5_x64-setup.exe).
 2. Run the installer and follow the quick setup wizard.
 3. Launch **ZynxTerminal** from your Start Menu or Desktop.
 
 ### Method 3: PowerShell One-Liner
 Open PowerShell and run:
 ```powershell
-Invoke-WebRequest -Uri "https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.2/ZynxTerminal_1.0.2_x64-setup.exe" -OutFile "$env:TEMP\ZynxTerminal-setup.exe"; Start-Process "$env:TEMP\ZynxTerminal-setup.exe"
+Invoke-WebRequest -Uri "https://github.com/zynxterminal/zynx-releases/releases/download/v1.0.5/ZynxTerminal_1.0.5_x64-setup.exe" -OutFile "$env:TEMP\ZynxTerminal-setup.exe"; Start-Process "$env:TEMP\ZynxTerminal-setup.exe"
 ```
 
 ---
@@ -76,10 +75,10 @@ You can verify the authenticity and integrity of downloaded binaries using Power
 
 ```powershell
 Get-FileHash -Algorithm SHA256 "path\to\ZynxTerminal_1.0.0_x64-setup.exe"
-# Hash: 1A52569562AD79F9697006C2B4FE6B753DDF5983E87916E7B942089F94694578
+# Hash: BAD429732E1786520B6E45B4B4B3EDAD17F30EE7342D746D06F3C1A14EC9FA7D
 
 Get-FileHash -Algorithm SHA256 "path\to\ZynxTerminal_1.0.0_x64_en-US.msi"
-# Hash: 10584F3090964D96D992D6C9A3342C536B04583A0A13C6196478AD91382AC072
+# Hash: CBBF474C48000C4A7B0EC26EDD049CCBAD9B96164C3847E5435643E8AC5E1EA9
 ```
 
 ---

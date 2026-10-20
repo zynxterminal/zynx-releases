@@ -1,6 +1,5 @@
-SHA256 Checksums for ZynxTerminal v1.0.2 (Windows x64)
-Generated: 2026-08-20 (Release v1.0.2)
+SHA256 Checksums for ZynxTerminal v1.0.5 (Windows x64)
+Generated: 2026-10-21 (Release v1.0.5)
 
-3850c068284f7ead4668814795ae5f330b71e08afef2f221a00cb80a35ba31c4 *ZynxTerminal_1.0.2_x64-setup.exe
-d82def44ef029a8cf8409110ba31ecd80e139f669a5ac2af3a939bf52f2fb0b1 *ZynxTerminal_1.0.2_x64_en-US.msi
-a7577c7b56f5f4fb8d6c1052668884bebab627f7f488f21e4fb9f405017f667e *ZynxTerminal_1.0.2.0_x64.msix
+bad429732e1786520b6e45b4b4b3edad17f30ee7342d746d06f3c1a14ec9fa7d *ZynxTerminal_1.0.5_x64-setup.exe
+cbbf474c48000c4a7b0ec26edd049ccbad9b96164c3847e5435643e8ac5e1ea9 *ZynxTerminal_1.0.5_x64_en-US.msi
